@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Printf(stringutil.Reverse("!ssg ,emoclew"))
+	fmt.Printf(stringutil.Reverse("!1ssg ,emoclew"))
 }
